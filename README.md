@@ -13,6 +13,7 @@ only a 1/3 chance.
 - [Simulation Code](#simulation-code)
 - [Success Rate Examples](#success-rate-examples)
 - [Complete Output Example](#complete-output-example)
+- [Warning](#warning)
 
 
 ## Simulation Code
@@ -2063,3 +2064,6 @@ player chooses door 0; host shows door 2 has banana; player switches to door 1; 
 success rate without switching: 0.34
 success rate *with*  switching: 0.68
 ```
+
+## Warning
+![Spiked Math Comic](http://spikedmath.com/comics/020-game-show.png)
