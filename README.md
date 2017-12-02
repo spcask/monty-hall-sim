@@ -2067,3 +2067,5 @@ success rate *with*  switching: 0.68
 
 ## Warning
 ![Spiked Math Comic](http://spikedmath.com/comics/020-game-show.png)
+
+Comic URL: http://spikedmath.com/020.html
