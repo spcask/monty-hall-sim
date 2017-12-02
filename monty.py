@@ -24,7 +24,7 @@ def play(switch):
     choose = random.choice([0, 1, 2])
     out('player chooses door {}; '.format(choose))
 
-    # The host now now opens one of the unchosen doors that contains banana.
+    # The host now opens one of the unchosen doors that contains banana.
     show = random.choice([x for x in [0, 1, 2] if x != choose and
                                                   doors[x] == 'banana'])
     out('host shows door {} has banana; '.format(show))
