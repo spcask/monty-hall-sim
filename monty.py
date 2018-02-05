@@ -5,7 +5,7 @@ import random
 __version__ = '0.0.1'
 __date__ = '2 December 2017'
 __author__ = 'Susam Pal'
-__credits__ = ('Anand, for an interesting discussing on whether '
+__credits__ = ('Anand, for an interesting discussion on whether '
                'the Monty Hall problem is a statistics problem or '
                'a probability problem')
 
